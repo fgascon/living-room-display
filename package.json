@@ -1,0 +1,26 @@
+{
+  "name": "living-room-display",
+  "version": "0.0.0",
+  "description": "Living Room Display Screen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fgascon/living-room-display.git"
+  },
+  "keywords": [
+    "living",
+    "room",
+    "display",
+    "photo",
+    "frame"
+  ],
+  "author": "Frédéric Gascon",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~3.4.0",
+    "browserify": "~2.33.0"
+  }
+}
